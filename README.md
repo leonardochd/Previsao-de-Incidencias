@@ -1,2 +1,2 @@
-# Previs-o-de-Incidencias
+# Previsão-de-Incidencias
 Trabalho de Conclusão de Curso em Engenharia de Computação pela UNIFEI
